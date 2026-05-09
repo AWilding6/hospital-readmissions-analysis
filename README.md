@@ -87,4 +87,5 @@ Carle BroMenn Medical Center in Illinois is the single worst performer in the da
 ---
 
 ## Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
 *Built with Tableau Public — [View Interactive Version](https://public.tableau.com/app/profile/andrew.wilding/viz/HospitalReadmissionsAnalysisFY2026/NationalOverviewDashboard)*
